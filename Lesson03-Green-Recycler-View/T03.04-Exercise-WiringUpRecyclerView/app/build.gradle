@@ -15,6 +15,7 @@ android {
             minifyEnabled false
         }
     }
+    namespace 'com.example.android.recyclerview'
 }
 
 dependencies {
