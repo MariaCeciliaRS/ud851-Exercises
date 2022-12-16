@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8788c302-23ee-4cfe-bf77-381c663433fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.01-Exercise-CreateLayout/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/T02.01-Exercise-CreateLayout/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.01-Exercise-CreateLayout/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/T02.01-Exercise-CreateLayout/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/T02.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/T02.02-Exercise-AddMenu/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.02-Solution-AddMenu/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/T02.02-Solution-AddMenu/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.02-Solution-AddMenu/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/T02.02-Solution-AddMenu/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.03-Exercise-DisplayUrl/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/T02.03-Exercise-DisplayUrl/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.03-Exercise-DisplayUrl/app/src/main/java/com/example/android/datafrominternet/utilities/NetworkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/T02.03-Exercise-DisplayUrl/app/src/main/java/com/example/android/datafrominternet/utilities/NetworkUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.04-Exercise-ConnectingToTheInternet/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/T02.04-Exercise-ConnectingToTheInternet/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.04-Exercise-ConnectingToTheInternet/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/T02.04-Exercise-ConnectingToTheInternet/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.05-Exercise-CreateAsyncTask/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/T02.05-Exercise-CreateAsyncTask/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.06-Exercise-AddPolish/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/T02.06-Exercise-AddPolish/app/src/main/java/com/example/android/datafrominternet/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.06-Exercise-AddPolish/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/T02.06-Exercise-AddPolish/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T02.06-Exercise-AddPolish/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/T02.06-Exercise-AddPolish/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IWKjfFJDQFFbuxj2uFuVwOy2QL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ud851-Sunshine/S02.01-Exercise-Networking" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8788c302-23ee-4cfe-bf77-381c663433fe" name="Changes" comment="" />
+      <created>1670292035258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670292035258</updated>
+    </task>
+    <servers />
+  </component>
+</project>
