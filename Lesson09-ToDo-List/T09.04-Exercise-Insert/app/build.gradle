@@ -17,6 +17,7 @@ android {
         }
     }
     dataBinding.enabled = true
+    namespace 'com.example.android.todolist'
 }
 
 dependencies {
