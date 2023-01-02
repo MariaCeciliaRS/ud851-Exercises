@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.example.android.background">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:allowBackup="true"
@@ -18,8 +17,11 @@
             </intent-filter>
         </activity>
 
-        <!-- TODO (14) Declare WaterReminderIntentService in the Manifest and set the exported
+        <!-- COMPLETED (14) Declare WaterReminderIntentService in the Manifest and set the exported
          attribute to false-->
+        <service
+            android:name=".sync.WaterReminderIntentService"
+            android:exported="false"/>
 
     </application>
 </manifest>
