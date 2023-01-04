@@ -16,11 +16,13 @@ android {
             minifyEnabled false
         }
     }
+    namespace 'com.example.android.boardingpass'
 
 }
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:28.0.0'
-    // TODO (1) Add the compile dependency for the constraint layout support library
+    // COMPLETED (1) Add the compile dependency for the constraint layout support library
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 }

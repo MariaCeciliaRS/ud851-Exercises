@@ -18,8 +18,10 @@ android {
             minifyEnabled false
         }
     }
+    namespace 'com.example.android.boardingpass'
 
-    // TODO (1) Enable Data Binding in your application
+    // COMPLETED (1) Enable Data Binding in your application
+    dataBinding.enabled = true
 }
 
 dependencies {

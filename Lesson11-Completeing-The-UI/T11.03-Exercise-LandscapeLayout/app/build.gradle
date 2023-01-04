@@ -20,6 +20,7 @@ android {
     }
 
     dataBinding.enabled = true
+    namespace 'com.example.android.boardingpass'
 }
 
 dependencies {
